@@ -1,0 +1,1216 @@
+12566707Sarmiento 1490                                    8868
+12566708Diagonal Norte 910                                7908
+12566709Av. Corrientes 1236                               2267
+12566711Florida 474                                       4342
+12566712Av. Cordoba 685                                   8705
+12566713Florida 118                                       1075
+12566714Av. Cordoba 1467                                  2437
+12566715Florida 52                                        5740
+12566716Av. Corrientes 484                                2291
+12566717Sarmiento 481                                     3651
+12566718Av. de Mayo 602                                   5020
+12566719Av. Santa Fe 1310                                 6175
+12566720Av. Santa Fe 802                                  8045
+12566721Av. Santa Fe 824                                  7703
+12566722Av. Belgrano 1194                                 4701
+12566723Libertad 1279                                     1356
+12566724Av. Rivadavia 364                                 8931
+12566725Av. Corrientes 1820                               1288
+12566726Av, Leandro N. Alem 702                           5501
+12566727Av. Callao 23                                     1076
+12566728Av. Cordoba 1861                                  7440
+12566729Av. Entre Rios 196                                4407
+12566730Av. Santa Fe 1740                                 2866
+12566731Rodriguez Peña 1572                               2719
+12566732Alicia M. de Justo 350                            4011
+12566733Av. Callao 1600                                   1813
+12566734Av. Rivadavia 2215                                7605
+12566735Av. Santa Fe 2139                                 8144
+12566736Roberto M. Ortiz 1861                             6866
+12566737Av. Las Heras 2055                                1309
+12566738Juana Manso 1189                                  2500
+12566739Av. San Juan 387                                  5285
+12566740Peña 2383                                         1377
+12566741Av. Santa Fe 2453                                 3361
+12566742Av. Pueyrredon 991                                1093
+12566743Av. Las Heras 2324                                2277
+12566744Av. Pueyrredon 539                                7531
+12566745Av. Independencia 2676                            2017
+12566746Av. Santa Fe 2822                                 4554
+12566747Juncal 2781                                       6451
+12566748Av. Las Heras 2845                                4839
+12566749Av. Corrientes 3202                               5595
+12566750Av. San Juan 2701                                 6622
+12566751Av. Rivadavia 310                                 8810
+12566752Av. Cordoba 3381                                  6410
+12566753Republica Dominicana 3358                         5722
+12566754Av. Santa Fe 3380                                 5698
+12566755Montes de Oca 894                                 2781
+12566756Scalabrini Ortiz 3149                             3185
+12566757Esteban Adrogué 1052 / 58                         7660
+12566758Silverio Almiró 21 / 29                           6380
+12566759Rivadavia 301                                     1776
+12566760Au. Tte. Gral. Pablo Riccheri Km 33,5             2926
+12566761Au. Tte. Gral. Pablo Riccheri Km 33,5             1421
+12566762Avda. Independencia 3621                          2101
+12566763Avda. Eugenia Tapia de Cruz 28                    5157
+12566764Calle 138 número 1498                             8436
+12566765Hipólito Irigoyen 14820                           5729
+12566766 Juan Bautista Alberdi 2923                       3538
+12566767Roma 3261                                         8628
+12566768Córdoba 2071                                      8950
+12566769Avda.Victorica 875                                6960
+12566770Mendoza 385/389                                   4775
+12566771Intendente Campos 1626/34                         5106
+12566772Muñoz 1576                                        5110
+12566773Avda. Coronel Ramón L. Falcón 331                 7536
+12566774Avda. Daniel M. Cazón 185                         4855
+12566775Ricardo Gutiérrez 498                             8689
+12566776Avda. Mitre 399                                   4836
+12566777Avda. 13 n° 115                                   3525
+12566778Avda. 60 nro 352                                  7983
+12566779Av. Pte. Dr. Arturo U. Illia 2570                 3865
+1256678025 de Mayo 1199                                   2721
+12566781San Martín 455/57                                 1787
+12566782Coronel Brandsen 36                               3523
+12566783Calle 15 N° 551                                   2606
+12566784Alsina 638                                        2930
+12566785Ldor. Gral. San Martín 1218                       1255
+12566786Calle 4 n° 7                                      1866
+12566787Sarmiento 675 - Pergamino                         6121
+12566788Roque Sáenz Peña 938                              6975
+12566789Avda. Independencia 3617-M.del Plata              1721
+12566790Avda. Libertad 3802 - M.del Plata                 8081
+12566791Luro 5832 - M. del Plata                          2208
+12566792Avda. Edison 302                                  6370
+12566793Emilio Martín Larraya 1100                        2258
+12566794Mitre 638                                         4908
+12566795Senador Morón 1390                                5523
+12566796Avda. Santana E. Zabalza 1                        1236
+12566797Calle 14 n° 4465                                  1335
+12566798Avda. San Martín 464                              7800
+12566799Avda. Gral. San Martín 501                        4613
+12566800Avda. A.Sáenz 2099                                8933
+12566801Avda. Pellegrini 1474                             6020
+12566802Avda. Mitre 198                                   1066
+12566803Gral. Roca 869                                    6156
+12566804Calle 57 n° 831 entre 11 y 12                     8990
+12566805Calle 4 n° 168                                    5739
+12566806Avda. Ing. A. Roca  152                           6512
+12566807Avda. Libertad 698                                1049
+12566808Urcelay 529                                       4572
+12566809Avda. Pte. J. D. Perón 402                        5044
+12566810Avda. Colón 898                                   8778
+12566811Avda. San Martín 150                              5806
+12566812Alberto H. Almirón 46                             7339
+12566813Avda. Mitre y Azcuénaga                           1346
+12566814H. Yrigoyen 400                                   7196
+12566815Juan B. Alberdi 4775                              4927
+1256681625 de Mayo 325                                    7372
+12566817Las Heras 398, Planta Baja                        4626
+12566818Lavalle 698                                       5108
+12566819General M. de Güemes 2551                         4268
+12566820Avda. del Libertador 13988                        1785
+12566821Avda. de los Trabajadores 2977                    7600
+12566822Alvear 625                                        3459
+12566823Avda. Dr. Ricardo Balbin 879                      1260
+12566824Sarmiento 944                                     4086
+12566825Colón 619                                         8494
+12566826Belgrano 49                                       7245
+12566827Avda. Mitre 113                                   6644
+12566828Soarez n° 1                                       7316
+12566829Padre Elizalde 445                                1313
+12566830Avda. San Martín 194                              7363
+12566831Calle 47 n° 901                                   1729
+12566832Avda. Julio A.Roca 622                            5444
+12566833Mitre esq. Guemes                                 1467
+12566834San Martín 602/26/34                              5457
+12566835Sarmiento 101                                     2122
+12566836Avda. Julio A. Roca 199                           3944
+12566837Calle 42 esq. 21 - La Plata                       4741
+12566838Boulevard H. Yrigoyen 99                          4214
+12566839Belgrano 199, esquina Gral. Rico                  3575
+12566840Don Bosco 1285 - Bahia Blanca                     5333
+12566841Itacumbú 634                                      3177
+12566842La Merced 266                                     1133
+12566843Monteagudo 3237                                   7199
+12566844Avda San Martín (15) n° 805                       7626
+12566845Avellaneda 281                                    2352
+12566846Avda. de los Constituyentes 553                   2309
+12566847San Martín 390                                    2403
+12566848Rivadavia 698                                     2489
+12566849Doctor Equiza 4482                                7654
+12566850Avda. Mitre 102                                   8946
+12566851Sarmiento 386                                     6900
+12566852Carlos Pellegrini 942                             5577
+12566853El Callao 1330                                    4636
+12566854Ruta Provincial n° 21                             6933
+12566855Rivadavia esq. Almafuerte                         5553
+12566856Calle 10 esq. 26                                  1593
+12566857Avda. Julio A. Roca 1302                          2611
+12566858Bartolomé Mitre 201                               7208
+12566859Libertad 3697                                     3948
+12566860Avda. José Altube 1761                            4322
+12566861Sarmiento 359                                     4594
+12566862San Martín 499                                    5635
+12566863Calle 35 n° 1202                                  5573
+12566864Mayor López 26                                    2483
+12566865Calle 7 n° 826                                    6722
+12566866Anatole France 1961                               7326
+12566867Avda. H. Yrigoyen 4150                            6204
+12566868Avda. San Martín 1100                             2359
+12566869Avda. Gral. Paz 374                               6093
+12566870Calle 11 N° 245                                   6873
+12566871Avda. L.N.Alem 1200                               7331
+12566872Avda. Antártida Argentina 1712                    4479
+12566873Avda. San Martín 202                              5174
+12566874Salgado y Pte. J. D. Perón                        4456
+12566875Luciano Fortabat 1587                             4002
+12566876Leandro N. Alem 15                                8743
+12566877Bmé. Mitre 696                                    7823
+12566878San Martín 298                                    7957
+12566879Belgrano 798                                      7782
+12566880San Martín 2594                                   6933
+12566881Sarmiento 2068 esq. 25 de Mayo                    2231
+12566882Avda. Tandil 401                                  3022
+12566883Roma 3271                                         7123
+12566884Avda. Santa Fe 2122                               4282
+12566885Calle 29 n° 448                                   4661
+12566886Avda. Libertador 427                              6990
+12566887Avda. 26 522                                      2325
+12566888Dardo Rocha 315                                   4636
+12566889Petracchi 501                                     3326
+12566890L.N.Alem 158                                      2753
+12566893Avda. Velez Sarsfield 4571/77                     2405
+12566894H. Yrigoyen 300                                   4412
+12566895Calle 60 Nº 3002                                  7209
+12566896Calle 22 n° 1001                                  8354
+12566897Avda. Sgto. Cabral 527                            6787
+12566898Avda. La Rioja 1199                               3295
+12566899Las Heras 398. Pisos 1° al 4°                     5673
+12566900V. López 2900                                     1800
+12566901Avda. Maipu 2499                                  2177
+12566902Josefina Pacheco de Riglos 41                     6361
+12566903Avda. Santamarina 402                             7997
+12566904Calle 9 N° 1761 (Parque Industrial Pilar)         1099
+12566905Paraguay 2                                        1863
+12566906Calle 5 Nº 1299                                   5294
+12566907Artigas 589                                       1626
+12566908Avda. Dr. Raúl Manfredi 570                       4692
+12566909San Nicolás 720                                   6674
+12566910Ciudad de Rodez 102                               6377
+12566911Rivadavia 403                                     7339
+12566912Avda. Shaw 156                                    1191
+12566913Estomba 52                                        3319
+12566914Avda. San Martín 499                              6717
+12566915Avda. General Paz 5445                            3958
+12566916Uruguay 143                                       8887
+12566917Humberto Primo 481                                7989
+12566918Rivadavia 299                                     6608
+12566919Avda. Chacón 497                                  4255
+12566920Rivadavia 13748                                   4454
+12566921Avda. San Martín 501                              4497
+12566922Cnel. Beltrán 133                                 3209
+12566923Baron Hirsch 2                                    5298
+12566924Avda. S. Martín 301 esq. A.L.Duggan               1196
+12566925Avda. 25 de Mayo 400                              4053
+12566926Hipólito Yrigoyen 501                             4309
+12566927Avda. San Martín 3099                             8778
+12566928Pueyrredón 101                                    7635
+12566929San Pablo 401                                     7143
+12566930Moreno 298                                        4111
+12566931Alsina 250                                        3719
+12566932Avda. San Martín 398                              7847
+125669333 de Febrero 999                                  7708
+12566934Belgrano 385                                      8639
+12566935Arieta 3015                                       3940
+12566936Mitre 3920 (Calle 54)                             1715
+12566937Avda Pte. Tte. Gral. Perón 1402                   3038
+12566938Belgrano 101 esq.Sarmiento                        4850
+12566939Carlos Pellegrini 402                             1575
+12566940Avda. Bolívar 104                                 8830
+12566941Los Angeles 197                                   6685
+12566942Avda. 37 n° 319                                   5100
+12566943Avda. Mitre 2727                                  4146
+12566944Calle 48 N° 575, 1° Subsuelo                      8665
+12566945Santa Fe 450                                      4570
+12566946Av. Pte. J. D. Perón 1026                         5969
+12566947Calle 47 Nro. 734                                 7993
+12566948Avda. Juan B. Justo 1620                          7673
+12566949Almirante Brown 612                               4038
+12566950Acassuso 253                                      1889
+12566951Gral. Pinto 600                                   4081
+12566952Avda. 9 de Julio 545                              2867
+12566953Avda. Cazón 1600                                  7160
+12566954Avenida 7 Nº 900 esq. 523                         7855
+12566955Avda. 9 de Julio 402                              2785
+12566956Bvd. Villegas 501                                 6109
+12566957Avda. Moreno 299                                  1693
+125669589 de Julio 502                                    1384
+1256695925 de Mayo 54                                     8531
+12566960Rivadavia 204                                     7334
+12566961Pte. Tte. Gral. Juan D. Perón 2757                8153
+12566962Avda. L.N.Alem 1                                  7936
+12566963Calle 9 n° 900                                    4173
+12566964Calle 30 n° 1400                                  7209
+12566965Avda. Maipú 742                                   6714
+12566966Calle Alvear 2615 (ex 278)                        4681
+12566967Martín Fierro 6550                                7684
+12566968Calle 83 n° 302 (Necochea)                        7422
+12566969Avda. 3 esq. Paseo 109                            2411
+12566970M. Belgrano 198                                   1861
+12566971Avda. Crovara 954                                 1021
+12566972Avda. San Martín 101                              7048
+12566973Falucho 185                                       4998
+12566974Avda. del Libertador Gral.S.Martín 199            7049
+12566975Avellaneda 3315                                   6451
+12566976Avda. Pte. Bmé. Mitre 6440                        1723
+12566977Avda. Rivadavia 699                               6955
+12566978Diagonal Norte 910                                5943
+12566979Av. Corrientes 1236                               8972
+12566980Sarmiento 1490                                    3190
+12566981Florida 474                                       2670
+12566982Av. Cordoba 685                                   7616
+12566983Florida 118                                       6254
+12566984Av. Cordoba 1467                                  2765
+12566985Florida 52                                        5421
+12566986Av. Corrientes 484                                1557
+12566987Sarmiento 481                                     2565
+12566988Av. de Mayo 602                                   5537
+12566989Av. Santa Fe 1310                                 8770
+12566990Av. Santa Fe 802                                  7193
+12566991Av. Santa Fe 824                                  6687
+12566992Av. Belgrano 1194                                 4267
+12566993Libertad 1279                                     3158
+12566994Av. Rivadavia 364                                 8529
+12566995Av. Corrientes 1820                               1562
+12566996Av, Leandro N. Alem 702                           1175
+12566997Av. Callao 23                                     1808
+12566998Av. Cordoba 1861                                  2282
+12566999Av. Entre Rios 196                                1784
+12567000Av. Santa Fe 1740                                 4256
+12567001Rodriguez Peña 1572                               2593
+12567002Alicia M. de Justo 350                            7111
+12567003Av. Callao 1600                                   5829
+12567004Av. Rivadavia 2215                                3542
+12567005Av. Santa Fe 2139                                 2032
+12567006Roberto M. Ortiz 1861                             7732
+12567007Av. Las Heras 2055                                3483
+12567008Juana Manso 1189                                  1394
+12567009Av. San Juan 387                                  1618
+12567010Peña 2383                                         4929
+12567011Av. Santa Fe 2453                                 1263
+12567012Av. Pueyrredon 991                                8783
+12567013Av. Las Heras 2324                                6374
+12567014Av. Pueyrredon 539                                5003
+12567015Av. Independencia 2676                            8332
+12567016Av. Santa Fe 2822                                 8313
+12567017Juncal 2781                                       8833
+12567018Av. Las Heras 2845                                4593
+12567019Av. Corrientes 3202                               6418
+12567020Av. San Juan 2701                                 6388
+12567021Av. Rivadavia 310                                 6994
+12567022Av. Cordoba 3381                                  4680
+12567023Republica Dominicana 3358                         2427
+12567024Av. Santa Fe 3380                                 7584
+12567025Montes de Oca 894                                 8320
+12567026Scalabrini Ortiz 3149                             6040
+12567027Esteban Adrogué 1052 / 58                         4954
+12567028Silverio Almiró 21 / 29                           7680
+12567029Rivadavia 301                                     7158
+12567030Au. Tte. Gral. Pablo Riccheri Km 33,5             1074
+12567031Au. Tte. Gral. Pablo Riccheri Km 33,5             4470
+12567032Avda. Independencia 3621                          5659
+12567033Avda. Eugenia Tapia de Cruz 28                    1643
+12567034Calle 138 número 1498                             8402
+12567035Hipólito Irigoyen 14820                           4117
+12567036 Juan Bautista Alberdi 2923                       8165
+12567037Roma 3261                                         1701
+12567038Córdoba 2071                                      8815
+12567039Avda.Victorica 875                                2507
+12567040Mendoza 385/389                                   1274
+12567041Intendente Campos 1626/34                         6892
+12567042Muñoz 1576                                        7653
+12567043Avda. Coronel Ramón L. Falcón 331                 4808
+12567044Avda. Daniel M. Cazón 185                         6596
+12567045Ricardo Gutiérrez 498                             1730
+12567046Avda. Mitre 399                                   7777
+12567047Avda. 13 n° 115                                   7499
+12567048Avda. 60 nro 352                                  2723
+12567049Av. Pte. Dr. Arturo U. Illia 2570                 1351
+1256705025 de Mayo 1199                                   4816
+12567051San Martín 455/57                                 3467
+12567052Coronel Brandsen 36                               7805
+12567053Calle 15 N° 551                                   7888
+12567054Alsina 638                                        5887
+12567055Ldor. Gral. San Martín 1218                       2405
+12567056Calle 4 n° 7                                      5171
+12567057Sarmiento 675 - Pergamino                         3330
+12567058Roque Sáenz Peña 938                              6776
+12567059Avda. Independencia 3617-M.del Plata              3724
+12567060Avda. Libertad 3802 - M.del Plata                 1878
+12567061Luro 5832 - M. del Plata                          2695
+12567062Avda. Edison 302                                  7048
+12567063Emilio Martín Larraya 1100                        8358
+12567064Mitre 638                                         8104
+12567065Senador Morón 1390                                6584
+12567066Avda. Santana E. Zabalza 1                        8675
+12567067Calle 14 n° 4465                                  1999
+12567068Avda. San Martín 464                              1243
+12567069Avda. Gral. San Martín 501                        5133
+12567070Avda. A.Sáenz 2099                                2372
+12567071Avda. Pellegrini 1474                             5548
+12567072Avda. Mitre 198                                   6169
+12567073Gral. Roca 869                                    3926
+12567074Calle 57 n° 831 entre 11 y 12                     3238
+12567075Calle 4 n° 168                                    4780
+12567076Avda. Ing. A. Roca  152                           7536
+12567077Avda. Libertad 698                                2367
+12567078Urcelay 529                                       7047
+12567079Avda. Pte. J. D. Perón 402                        2500
+12567080Avda. Colón 898                                   3066
+12567081Avda. San Martín 150                              5285
+12567082Alberto H. Almirón 46                             4884
+12567083Avda. Mitre y Azcuénaga                           6105
+12567084H. Yrigoyen 400                                   8790
+12567085Juan B. Alberdi 4775                              7292
+1256708625 de Mayo 325                                    3674
+12567087Las Heras 398, Planta Baja                        7623
+12567088Lavalle 698                                       8186
+12567089General M. de Güemes 2551                         1782
+12567090Avda. del Libertador 13988                        1321
+12567091Avda. de los Trabajadores 2977                    2893
+12567092Alvear 625                                        5471
+12567093Avda. Dr. Ricardo Balbin 879                      2246
+12567094Sarmiento 944                                     2016
+12567095Colón 619                                         8542
+12567096Belgrano 49                                       2047
+12567097Avda. Mitre 113                                   7625
+12567098Soarez n° 1                                       3632
+12567099Padre Elizalde 445                                1861
+12567100Avda. San Martín 194                              3783
+12567101Calle 47 n° 901                                   1841
+12567102Avda. Julio A.Roca 622                            7569
+12567103Mitre esq. Guemes                                 1522
+12567104San Martín 602/26/34                              3216
+12567105Sarmiento 101                                     5079
+12567106Avda. Julio A. Roca 199                           4002
+12567107Calle 42 esq. 21 - La Plata                       1965
+12567108Boulevard H. Yrigoyen 99                          1546
+12567109Belgrano 199, esquina Gral. Rico                  7551
+12567110Don Bosco 1285 - Bahia Blanca                     1071
+12567111Itacumbú 634                                      5891
+12567112La Merced 266                                     3172
+12567113Monteagudo 3237                                   2172
+12567114Avda San Martín (15) n° 805                       1185
+12567115Avellaneda 281                                    5432
+12567116Avda. de los Constituyentes 553                   1685
+12567117San Martín 390                                    1536
+12567118Rivadavia 698                                     4987
+12567119Doctor Equiza 4482                                4938
+12567120Avda. Mitre 102                                   3210
+12567121Sarmiento 386                                     6927
+12567122Carlos Pellegrini 942                             8294
+12567123El Callao 1330                                    4594
+12567124Ruta Provincial n° 21                             6427
+12567125Rivadavia esq. Almafuerte                         6055
+12567126Calle 10 esq. 26                                  6189
+12567127Avda. Julio A. Roca 1302                          5828
+12567128Bartolomé Mitre 201                               8844
+12567129Libertad 3697                                     7923
+12567130Avda. José Altube 1761                            5043
+12567131Sarmiento 359                                     7561
+12567132San Martín 499                                    6919
+12567133Calle 35 n° 1202                                  3810
+12567134Mayor López 26                                    2312
+12567135Calle 7 n° 826                                    8011
+12567136Anatole France 1961                               8489
+12567137Avda. H. Yrigoyen 4150                            3940
+12567138Avda. San Martín 1100                             4524
+12567139Avda. Gral. Paz 374                               8643
+12567140Calle 11 N° 245                                   3600
+12567141Avda. L.N.Alem 1200                               6598
+12567142Avda. Antártida Argentina 1712                    4173
+12567143Avda. San Martín 202                              4928
+12567144Salgado y Pte. J. D. Perón                        5292
+12567145Luciano Fortabat 1587                             3445
+12567146Leandro N. Alem 15                                3388
+12567147Bmé. Mitre 696                                    2534
+12567148San Martín 298                                    7697
+12567149Belgrano 798                                      6876
+12567150San Martín 2594                                   6012
+12567151Sarmiento 2068 esq. 25 de Mayo                    3219
+12567152Avda. Tandil 401                                  4425
+12567153Roma 3271                                         2381
+12567154Avda. Santa Fe 2122                               1797
+12567155Calle 29 n° 448                                   3001
+12567156Avda. Libertador 427                              7485
+12567157Avda. 26 522                                      6346
+12567158Dardo Rocha 315                                   4071
+12567159Petracchi 501                                     5736
+12567160L.N.Alem 158                                      4849
+12567161Avda. Libertador 203                              8550
+12567162Rivadavia 18100                                   8664
+12567163Avda. Velez Sarsfield 4571/77                     8563
+12567164H. Yrigoyen 300                                   3792
+12567165Calle 60 Nº 3002                                  2999
+12567166Calle 22 n° 1001                                  3812
+12567167Avda. Sgto. Cabral 527                            3916
+12567168Avda. La Rioja 1199                               1205
+12567169Las Heras 398. Pisos 1° al 4°                     2626
+12567170V. López 2900                                     3049
+12567171Avda. Maipu 2499                                  3330
+12567172Josefina Pacheco de Riglos 41                     3587
+12567173Avda. Santamarina 402                             1638
+12567174Calle 9 N° 1761 (Parque Industrial Pilar)         4446
+12567175Paraguay 2                                        3909
+12567176Calle 5 Nº 1299                                   3164
+12567177Artigas 589                                       3247
+12567178Avda. Dr. Raúl Manfredi 570                       8265
+12567179San Nicolás 720                                   6559
+12567180Ciudad de Rodez 102                               2043
+12567181Rivadavia 403                                     4238
+12567182Avda. Shaw 156                                    2731
+12567183Estomba 52                                        5094
+12567184Avda. San Martín 499                              6399
+12567185Avda. General Paz 5445                            4094
+12567186Uruguay 143                                       5032
+12567187Humberto Primo 481                                4206
+12567188Rivadavia 299                                     4129
+12567189Avda. Chacón 497                                  8913
+12567190Rivadavia 13748                                   4122
+12567191Avda. San Martín 501                              3361
+12567192Cnel. Beltrán 133                                 2456
+12567193Baron Hirsch 2                                    6615
+12567194Avda. S. Martín 301 esq. A.L.Duggan               1556
+12567195Avda. 25 de Mayo 400                              1340
+12567196Hipólito Yrigoyen 501                             4254
+12567197Avda. San Martín 3099                             4754
+12567198Pueyrredón 101                                    5527
+12567199San Pablo 401                                     6270
+12567200Moreno 298                                        6004
+12567201Alsina 250                                        4161
+12567202Avda. San Martín 398                              2516
+125672033 de Febrero 999                                  5254
+12567204Belgrano 385                                      6367
+12567205Arieta 3015                                       6352
+12567206Mitre 3920 (Calle 54)                             5543
+12567207Avda Pte. Tte. Gral. Perón 1402                   3164
+12567208Belgrano 101 esq.Sarmiento                        8252
+12567209Carlos Pellegrini 402                             5433
+12567210Avda. Bolívar 104                                 4471
+12567211Los Angeles 197                                   2539
+12567212Avda. 37 n° 319                                   5802
+12567213Avda. Mitre 2727                                  5092
+12567214Calle 48 N° 575, 1° Subsuelo                      2310
+12567215Santa Fe 450                                      2534
+12567216Av. Pte. J. D. Perón 1026                         8569
+12567217Calle 47 Nro. 734                                 7944
+12567218Avda. Juan B. Justo 1620                          2235
+12567219Almirante Brown 612                               5101
+12567220Acassuso 253                                      7382
+12567221Gral. Pinto 600                                   6078
+12567222Avda. 9 de Julio 545                              3199
+12567223Avda. Cazón 1600                                  2975
+12567224Avenida 7 Nº 900 esq. 523                         8977
+12567225Avda. 9 de Julio 402                              6723
+12567226Bvd. Villegas 501                                 1524
+12567227Avda. Moreno 299                                  2724
+125672289 de Julio 502                                    3259
+1256722925 de Mayo 54                                     8716
+12567230Rivadavia 204                                     8995
+12567231Pte. Tte. Gral. Juan D. Perón 2757                2138
+12567232Avda. L.N.Alem 1                                  8634
+12567233Calle 9 n° 900                                    3024
+12567234Calle 30 n° 1400                                  2294
+12567235Avda. Maipú 742                                   1016
+12567236Calle Alvear 2615 (ex 278)                        2486
+12567237Martín Fierro 6550                                3299
+12567238Calle 83 n° 302 (Necochea)                        6756
+12567239Avda. 3 esq. Paseo 109                            8234
+12567240M. Belgrano 198                                   7071
+12567241Avda. Crovara 954                                 4870
+12567242Avda. San Martín 101                              1893
+12567243Falucho 185                                       4019
+12567244Avda. del Libertador Gral.S.Martín 199            6966
+12567245Avellaneda 3315                                   5459
+12567246Avda. Pte. Bmé. Mitre 6440                        2851
+12567247Avda. Rivadavia 699                               1180
+12567248Diagonal Norte 910                                3718
+12567249Av. Corrientes 1236                               6767
+12567250Sarmiento 1490                                    8244
+12567251Florida 474                                       7015
+12567252Av. Cordoba 685                                   1441
+12567253Florida 118                                       5346
+12567254Av. Cordoba 1467                                  8256
+12567255Florida 52                                        2092
+12567256Av. Corrientes 484                                2015
+12567257Sarmiento 481                                     8068
+12567258Av. de Mayo 602                                   3211
+12567259Av. Santa Fe 1310                                 2826
+12567260Av. Santa Fe 802                                  7650
+12567261Av. Santa Fe 824                                  4422
+12567262Av. Belgrano 1194                                 3550
+12567263Libertad 1279                                     1607
+12567264Av. Rivadavia 364                                 8281
+12567265Av. Corrientes 1820                               5326
+12567266Av, Leandro N. Alem 702                           4025
+12567267Av. Callao 23                                     2750
+12567268Av. Cordoba 1861                                  3703
+12567269Av. Entre Rios 196                                3251
+12567270Av. Santa Fe 1740                                 5533
+12567271Rodriguez Peña 1572                               4568
+12567272Alicia M. de Justo 350                            2255
+12567273Av. Callao 1600                                   4868
+12567274Av. Rivadavia 2215                                5851
+12567275Av. Santa Fe 2139                                 8784
+12567276Roberto M. Ortiz 1861                             5957
+12567277Av. Las Heras 2055                                2222
+12567278Juana Manso 1189                                  3410
+12567279Av. San Juan 387                                  7403
+12567280Peña 2383                                         8137
+12567281Av. Santa Fe 2453                                 5479
+12567282Av. Pueyrredon 991                                1531
+12567283Av. Las Heras 2324                                5226
+12567284Av. Pueyrredon 539                                8862
+12567285Av. Independencia 2676                            7303
+12567286Av. Santa Fe 2822                                 1968
+12567287Juncal 2781                                       1768
+12567288Av. Las Heras 2845                                7698
+12567289Av. Corrientes 3202                               5180
+12567290Av. San Juan 2701                                 6485
+12567291Av. Rivadavia 310                                 3774
+12567292Av. Cordoba 3381                                  1668
+12567293Republica Dominicana 3358                         5034
+12567294Av. Santa Fe 3380                                 2944
+12567295Montes de Oca 894                                 1875
+12567296Scalabrini Ortiz 3149                             1559
+12567297Esteban Adrogué 1052 / 58                         6501
+12567298Silverio Almiró 21 / 29                           6903
+12567299Rivadavia 301                                     5970
+12567300Au. Tte. Gral. Pablo Riccheri Km 33,5             7419
+12567301Au. Tte. Gral. Pablo Riccheri Km 33,5             3040
+12567302Avda. Independencia 3621                          7668
+12567303Avda. Eugenia Tapia de Cruz 28                    7669
+12567304Calle 138 número 1498                             1465
+12567305Hipólito Irigoyen 14820                           4997
+12567306 Juan Bautista Alberdi 2923                       3873
+12567307Roma 3261                                         2440
+12567308Córdoba 2071                                      4690
+12567309Avda.Victorica 875                                4080
+12567310Mendoza 385/389                                   6001
+12567311Intendente Campos 1626/34                         1537
+12567312Muñoz 1576                                        1150
+12567313Avda. Coronel Ramón L. Falcón 331                 1971
+12567314Avda. Daniel M. Cazón 185                         6558
+12567315Ricardo Gutiérrez 498                             1498
+12567316Avda. Mitre 399                                   5951
+12567317Avda. 13 n° 115                                   4080
+12567318Avda. 60 nro 352                                  1170
+12567319Av. Pte. Dr. Arturo U. Illia 2570                 5993
+1256732025 de Mayo 1199                                   7445
+12567321San Martín 455/57                                 4272
+12567322Coronel Brandsen 36                               8776
+12567323Calle 15 N° 551                                   2998
+12567324Alsina 638                                        8817
+12567325Ldor. Gral. San Martín 1218                       5861
+12567326Calle 4 n° 7                                      5582
+12567327Sarmiento 675 - Pergamino                         8912
+12567328Roque Sáenz Peña 938                              8497
+12567329Avda. Independencia 3617-M.del Plata              3340
+12567330Avda. Libertad 3802 - M.del Plata                 3548
+12567331Luro 5832 - M. del Plata                          8557
+12567332Avda. Edison 302                                  7066
+12567333Emilio Martín Larraya 1100                        7752
+12567334Mitre 638                                         2604
+12567335Senador Morón 1390                                5787
+12567336Avda. Santana E. Zabalza 1                        6995
+12567337Calle 14 n° 4465                                  7440
+12567338Avda. San Martín 464                              6385
+12567339Avda. Gral. San Martín 501                        8704
+12567340Avda. A.Sáenz 2099                                6347
+12567341Avda. Pellegrini 1474                             3821
+12567342Avda. Mitre 198                                   7419
+12567343Gral. Roca 869                                    1701
+12567344Calle 57 n° 831 entre 11 y 12                     7528
+12567345Calle 4 n° 168                                    7018
+12567346Avda. Ing. A. Roca  152                           8020
+12567347Avda. Libertad 698                                2159
+12567348Urcelay 529                                       7268
+12567349Avda. Pte. J. D. Perón 402                        3758
+12567350Avda. Colón 898                                   2619
+12567351Avda. San Martín 150                              7188
+12567352Alberto H. Almirón 46                             5924
+12567353Avda. Mitre y Azcuénaga                           8221
+12567354H. Yrigoyen 400                                   1342
+12567355Juan B. Alberdi 4775                              1296
+1256735625 de Mayo 325                                    5899
+12567357Las Heras 398, Planta Baja                        4528
+12567358Lavalle 698                                       7060
+12567359General M. de Güemes 2551                         2465
+12567360Avda. del Libertador 13988                        7503
+12567361Avda. de los Trabajadores 2977                    5430
+12567362Alvear 625                                        3946
+12567363Avda. Dr. Ricardo Balbin 879                      4446
+12567364Sarmiento 944                                     1668
+12567365Colón 619                                         6127
+12567366Belgrano 49                                       5981
+12567367Avda. Mitre 113                                   8413
+12567368Soarez n° 1                                       4849
+12567369Padre Elizalde 445                                8375
+12567370Avda. San Martín 194                              7486
+12567371Calle 47 n° 901                                   5105
+12567372Avda. Julio A.Roca 622                            2860
+12567373Mitre esq. Guemes                                 4068
+12567374San Martín 602/26/34                              2780
+12567375Sarmiento 101                                     1861
+12567376Avda. Julio A. Roca 199                           8221
+12567377Calle 42 esq. 21 - La Plata                       7581
+12567378Boulevard H. Yrigoyen 99                          3097
+12567379Belgrano 199, esquina Gral. Rico                  2885
+12567380Don Bosco 1285 - Bahia Blanca                     7447
+12567381Itacumbú 634                                      4087
+12567382La Merced 266                                     4982
+12567383Monteagudo 3237                                   7455
+12567384Avda San Martín (15) n° 805                       3189
+12567385Avellaneda 281                                    6262
+12567386Avda. de los Constituyentes 553                   7916
+12567387San Martín 390                                    7609
+12567388Rivadavia 698                                     2665
+12567389Doctor Equiza 4482                                6880
+12567390Avda. Mitre 102                                   6086
+12567391Sarmiento 386                                     7271
+12567392Carlos Pellegrini 942                             8288
+12567393El Callao 1330                                    1015
+12567394Ruta Provincial n° 21                             2248
+12567395Rivadavia esq. Almafuerte                         3306
+12567396Calle 10 esq. 26                                  7348
+12567397Avda. Julio A. Roca 1302                          1159
+12567398Bartolomé Mitre 201                               5442
+12567399Libertad 3697                                     2032
+12567400Avda. José Altube 1761                            5484
+12567401Sarmiento 359                                     2664
+12567402San Martín 499                                    6117
+12567403Calle 35 n° 1202                                  3246
+12567404Mayor López 26                                    6997
+12567405Calle 7 n° 826                                    5483
+12567406Anatole France 1961                               1088
+12567407Avda. H. Yrigoyen 4150                            5015
+12567408Avda. San Martín 1100                             5887
+12567409Avda. Gral. Paz 374                               2958
+12567410Calle 11 N° 245                                   8707
+12567411Avda. L.N.Alem 1200                               1774
+12567412Avda. Antártida Argentina 1712                    5131
+12567413Avda. San Martín 202                              2563
+12567414Salgado y Pte. J. D. Perón                        5409
+12567415Luciano Fortabat 1587                             1903
+12567416Leandro N. Alem 15                                6474
+12567417Bmé. Mitre 696                                    5457
+12567418San Martín 298                                    2471
+12567419Belgrano 798                                      1218
+12567420San Martín 2594                                   3115
+12567421Sarmiento 2068 esq. 25 de Mayo                    1678
+12567422Avda. Tandil 401                                  1682
+12567423Roma 3271                                         4050
+12567424Avda. Santa Fe 2122                               5814
+12567425Calle 29 n° 448                                   4358
+12567426Avda. Libertador 427                              5180
+12567427Avda. 26 522                                      6447
+12567428Dardo Rocha 315                                   8570
+12567429Petracchi 501                                     7325
+12567430L.N.Alem 158                                      6521
+12567431Avda. Libertador 203                              7144
+12567432Rivadavia 18100                                   2541
+12567433Avda. Velez Sarsfield 4571/77                     8428
+12567434H. Yrigoyen 300                                   4373
+12567435Calle 60 Nº 3002                                  7391
+12567436Calle 22 n° 1001                                  1035
+12567437Avda. Sgto. Cabral 527                            1010
+12567438Avda. La Rioja 1199                               5836
+12567439Las Heras 398. Pisos 1° al 4°                     2044
+12567440V. López 2900                                     5580
+12567441Avda. Maipu 2499                                  8770
+12567442Josefina Pacheco de Riglos 41                     2502
+12567443Avda. Santamarina 402                             5462
+12567444Calle 9 N° 1761 (Parque Industrial Pilar)         7830
+12567445Paraguay 2                                        2449
+12567446Calle 5 Nº 1299                                   4975
+12567447Artigas 589                                       2441
+12567448Avda. Dr. Raúl Manfredi 570                       8942
+12567449San Nicolás 720                                   3816
+12567450Ciudad de Rodez 102                               5977
+12567451Rivadavia 403                                     3872
+12567452Avda. Shaw 156                                    8141
+12567453Estomba 52                                        1371
+12567454Avda. San Martín 499                              2208
+12567455Avda. General Paz 5445                            3638
+12567456Uruguay 143                                       7991
+12567457Humberto Primo 481                                6361
+12567458Rivadavia 299                                     3489
+12567459Avda. Chacón 497                                  8802
+12567460Rivadavia 13748                                   2751
+12567461Avda. San Martín 501                              5567
+12567462Cnel. Beltrán 133                                 2108
+12567463Baron Hirsch 2                                    6259
+12567464Avda. S. Martín 301 esq. A.L.Duggan               3709
+12567465Avda. 25 de Mayo 400                              7079
+12567466Hipólito Yrigoyen 501                             4190
+12567467Avda. San Martín 3099                             1104
+12567468Pueyrredón 101                                    3487
+12567469San Pablo 401                                     4193
+12567470Moreno 298                                        7855
+12567471Alsina 250                                        7677
+12567472Avda. San Martín 398                              5182
+125674733 de Febrero 999                                  8832
+12567474Belgrano 385                                      3863
+12567475Arieta 3015                                       1927
+12567476Mitre 3920 (Calle 54)                             7495
+12567477Avda Pte. Tte. Gral. Perón 1402                   2379
+12567478Belgrano 101 esq.Sarmiento                        7088
+12567479Carlos Pellegrini 402                             1797
+12567480Avda. Bolívar 104                                 5566
+12567481Los Angeles 197                                   6746
+12567482Avda. 37 n° 319                                   8606
+12567483Avda. Mitre 2727                                  4926
+12567484Calle 48 N° 575, 1° Subsuelo                      1130
+12567485Santa Fe 450                                      7135
+12567486Av. Pte. J. D. Perón 1026                         2113
+12567487Calle 47 Nro. 734                                 7335
+12567488Avda. Juan B. Justo 1620                          1324
+12567489Almirante Brown 612                               4139
+12567490Acassuso 253                                      5502
+12567491Gral. Pinto 600                                   5922
+12567492Avda. 9 de Julio 545                              5687
+12567493Avda. Cazón 1600                                  5073
+12567494Avenida 7 Nº 900 esq. 523                         6918
+12567495Avda. 9 de Julio 402                              7028
+12567496Bvd. Villegas 501                                 2147
+12567497Avda. Moreno 299                                  6093
+125674989 de Julio 502                                    3571
+1256749925 de Mayo 54                                     5133
+12567500Rivadavia 204                                     4672
+12567501Pte. Tte. Gral. Juan D. Perón 2757                4852
+12567502Avda. L.N.Alem 1                                  1881
+12567503Calle 9 n° 900                                    6067
+12567504Calle 30 n° 1400                                  8607
+12567505Avda. Maipú 742                                   4910
+12567506Calle Alvear 2615 (ex 278)                        2564
+12567507Martín Fierro 6550                                3304
+12567508Calle 83 n° 302 (Necochea)                        3354
+12567509Avda. 3 esq. Paseo 109                            4919
+12567510M. Belgrano 198                                   8762
+12567511Avda. Crovara 954                                 2091
+12567512Avda. San Martín 101                              6997
+12567513Falucho 185                                       2612
+12567514Avda. del Libertador Gral.S.Martín 199            1267
+12567515Avellaneda 3315                                   7557
+12567516Avda. Pte. Bmé. Mitre 6440                        5232
+12567517Avda. Rivadavia 699                               8969
+12567518Diagonal Norte 910                                3115
+12567519Av. Corrientes 1236                               2831
+12567520Sarmiento 1490                                    6820
+12567521Florida 474                                       8619
+12567522Av. Cordoba 685                                   6822
+12567523Florida 118                                       6909
+12567524Av. Cordoba 1467                                  2677
+12567525Florida 52                                        3075
+12567526Av. Corrientes 484                                4377
+12567527Sarmiento 481                                     7530
+12567528Av. de Mayo 602                                   3040
+12567529Av. Santa Fe 1310                                 5364
+12567530Av. Santa Fe 802                                  1479
+12567531Av. Santa Fe 824                                  3521
+12567532Av. Belgrano 1194                                 6032
+12567533Libertad 1279                                     8776
+12567534Av. Rivadavia 364                                 4324
+12567535Av. Corrientes 1820                               1494
+12567536Av, Leandro N. Alem 702                           6873
+12567537Av. Callao 23                                     2328
+12567538Av. Cordoba 1861                                  8563
+12567539Av. Entre Rios 196                                3214
+12567540Av. Santa Fe 1740                                 4099
+12567542Alicia M. de Justo 350                            3390
+12567543Av. Callao 1600                                   1358
+12567544Av. Rivadavia 2215                                8212
+12567545Av. Santa Fe 2139                                 5827
+12567546Roberto M. Ortiz 1861                             8432
+12567547Av. Las Heras 2055                                2250
+12567548Juana Manso 1189                                  7344
+12567549Av. San Juan 387                                  4084
+12567550Peña 2383                                         6818
+12567551Av. Santa Fe 2453                                 6948
+12567552Av. Pueyrredon 991                                4761
+12567553Av. Las Heras 2324                                5173
+12567554Av. Pueyrredon 539                                8719
+12567555Av. Independencia 2676                            3381
+12567556Av. Santa Fe 2822                                 3123
+12567557Juncal 2781                                       3549
+12567558Av. Las Heras 2845                                8213
+12567559Av. Corrientes 3202                               2834
+12567560Av. San Juan 2701                                 1835
+12567561Av. Rivadavia 310                                 4079
+12567562Av. Cordoba 3381                                  1874
+12567563Republica Dominicana 3358                         7725
+12567564Av. Santa Fe 3380                                 3669
+12567565Montes de Oca 894                                 6629
+12567566Scalabrini Ortiz 3149                             4020
+12567567Esteban Adrogué 1052 / 58                         8311
+12567568Silverio Almiró 21 / 29                           8839
+12567569Rivadavia 301                                     3574
+12567570Au. Tte. Gral. Pablo Riccheri Km 33,5             8809
+12567571Au. Tte. Gral. Pablo Riccheri Km 33,5             4915
+12567572Avda. Independencia 3621                          5675
+12567573Avda. Eugenia Tapia de Cruz 28                    2066
+12567574Calle 138 número 1498                             5226
+12567575Hipólito Irigoyen 14820                           2317
+12567576 Juan Bautista Alberdi 2923                       3533
+12567577Roma 3261                                         6775
+12567578Córdoba 2071                                      8355
+12567579Avda.Victorica 875                                8426
+12567580Mendoza 385/389                                   5154
+12567581Intendente Campos 1626/34                         1672
+12567582Muñoz 1576                                        1850
+12567583Avda. Coronel Ramón L. Falcón 331                 1346
+12567584Avda. Daniel M. Cazón 185                         4640
+12567585Ricardo Gutiérrez 498                             7700
+12567586Avda. Mitre 399                                   1055
+12567587Avda. 13 n° 115                                   8834
+12567588Avda. 60 nro 352                                  2732
+12567589Av. Pte. Dr. Arturo U. Illia 2570                 1773
+1256759025 de Mayo 1199                                   6022
+12567591San Martín 455/57                                 5254
+12567592Coronel Brandsen 36                               4109
+12567593Calle 15 N° 551                                   7434
+12567594Alsina 638                                        4650
+12567595Ldor. Gral. San Martín 1218                       2602
+12567596Calle 4 n° 7                                      1914
+12567597Sarmiento 675 - Pergamino                         7868
+12567598Roque Sáenz Peña 938                              6635
+12567599Avda. Independencia 3617-M.del Plata              5065
+12567600Avda. Libertad 3802 - M.del Plata                 4346
+12567601Luro 5832 - M. del Plata                          3471
+12567602Avda. Edison 302                                  4402
+12567603Emilio Martín Larraya 1100                        8168
+12567604Mitre 638                                         7056
+12567605Senador Morón 1390                                4698
+12567606Avda. Santana E. Zabalza 1                        3656
+12567607Calle 14 n° 4465                                  1478
+12567608Avda. San Martín 464                              3310
+12567609Avda. Gral. San Martín 501                        6126
+12567610Avda. A.Sáenz 2099                                7807
+12567611Avda. Pellegrini 1474                             7185
+12567612Avda. Mitre 198                                   3957
+12567613Gral. Roca 869                                    4003
+12567614Calle 57 n° 831 entre 11 y 12                     6872
+12567615Calle 4 n° 168                                    6981
+12567616Avda. Ing. A. Roca  152                           7900
+12567617Avda. Libertad 698                                8405
+12567618Urcelay 529                                       2711
+12567619Avda. Pte. J. D. Perón 402                        7641
+12567620Avda. Colón 898                                   4491
+12567621Avda. San Martín 150                              5401
+12567622Alberto H. Almirón 46                             3118
+12567623Avda. Mitre y Azcuénaga                           6688
+12567624H. Yrigoyen 400                                   5817
+12567625Juan B. Alberdi 4775                              4594
+1256762625 de Mayo 325                                    4861
+12567627Las Heras 398, Planta Baja                        1670
+12567628Lavalle 698                                       4635
+12567629General M. de Güemes 2551                         4493
+12567630Avda. del Libertador 13988                        1277
+12567631Avda. de los Trabajadores 2977                    6803
+12567632Alvear 625                                        7095
+12567633Avda. Dr. Ricardo Balbin 879                      1209
+12567634Sarmiento 944                                     5907
+12567635Colón 619                                         2439
+12567636Belgrano 49                                       2944
+12567637Avda. Mitre 113                                   6087
+12567638Soarez n° 1                                       6097
+12567639Padre Elizalde 445                                4759
+12567640Avda. San Martín 194                              3234
+12567641Calle 47 n° 901                                   2534
+12567642Avda. Julio A.Roca 622                            6151
+12567643Mitre esq. Guemes                                 6134
+12567644San Martín 602/26/34                              2178
+12567645Sarmiento 101                                     2779
+12567646Avda. Julio A. Roca 199                           1385
+12567647Calle 42 esq. 21 - La Plata                       2741
+12567648Boulevard H. Yrigoyen 99                          4232
+12567649Belgrano 199, esquina Gral. Rico                  3909
+12567650Don Bosco 1285 - Bahia Blanca                     7275
+12567651Itacumbú 634                                      5020
+12567652La Merced 266                                     5069
+12567653Monteagudo 3237                                   4757
+12567654Avda San Martín (15) n° 805                       5592
+12567655Avellaneda 281                                    2495
+12567656Avda. de los Constituyentes 553                   4157
+12567657San Martín 390                                    2578
+12567658Rivadavia 698                                     1023
+12567659Doctor Equiza 4482                                3467
+12567660Avda. Mitre 102                                   5212
+12567661Sarmiento 386                                     8229
+12567662Carlos Pellegrini 942                             2621
+12567663El Callao 1330                                    7377
+12567664Ruta Provincial n° 21                             7509
+12567665Rivadavia esq. Almafuerte                         2550
+12567666Calle 10 esq. 26                                  7610
+12567667Avda. Julio A. Roca 1302                          6108
+12567668Bartolomé Mitre 201                               7985
+12567669Libertad 3697                                     4688
+12567670Avda. José Altube 1761                            4507
+12567671Sarmiento 359                                     7031
+12567672San Martín 499                                    3536
+12567673Calle 35 n° 1202                                  1723
+12567674Mayor López 26                                    8264
+12567675Calle 7 n° 826                                    3763
+12567676Anatole France 1961                               8110
+12567677Avda. H. Yrigoyen 4150                            3315
+12567678Avda. San Martín 1100                             3313
+12567679Avda. Gral. Paz 374                               8876
+12567680Calle 11 N° 245                                   5304
+12567681Avda. L.N.Alem 1200                               3282
+12567682Avda. Antártida Argentina 1712                    4145
+12567683Avda. San Martín 202                              1120
+12567684Salgado y Pte. J. D. Perón                        3915
+12567685Luciano Fortabat 1587                             6579
+12567686Leandro N. Alem 15                                5692
+12567687Bmé. Mitre 696                                    2332
+12567688San Martín 298                                    5185
+12567689Belgrano 798                                      3328
+12567690San Martín 2594                                   4818
+12567691Sarmiento 2068 esq. 25 de Mayo                    8410
+12567692Avda. Tandil 401                                  8958
+12567693Roma 3271                                         8259
+12567694Avda. Santa Fe 2122                               6133
+12567695Calle 29 n° 448                                   4029
+12567696Avda. Libertador 427                              3860
+12567697Avda. 26 522                                      3437
+12567698Dardo Rocha 315                                   4535
+12567699Petracchi 501                                     3619
+12567700L.N.Alem 158                                      1570
+12567701Avda. Libertador 203                              7890
+12567702Rivadavia 18100                                   6407
+12567703Avda. Velez Sarsfield 4571/77                     5083
+12567704H. Yrigoyen 300                                   1451
+12567705Calle 60 Nº 3002                                  5635
+12567706Calle 22 n° 1001                                  6546
+12567707Avda. Sgto. Cabral 527                            5472
+12567708Avda. La Rioja 1199                               6664
+12567709Las Heras 398. Pisos 1° al 4°                     2063
+12567710V. López 2900                                     2729
+12567711Avda. Maipu 2499                                  3843
+12567712Josefina Pacheco de Riglos 41                     3721
+12567713Avda. Santamarina 402                             4732
+12567714Calle 9 N° 1761 (Parque Industrial Pilar)         8349
+12567715Paraguay 2                                        6071
+12567716Calle 5 Nº 1299                                   5900
+12567717Artigas 589                                       1810
+12567718Avda. Dr. Raúl Manfredi 570                       4065
+12567719San Nicolás 720                                   2864
+12567720Ciudad de Rodez 102                               3994
+12567721Rivadavia 403                                     8189
+12567722Avda. Shaw 156                                    4944
+12567723Estomba 52                                        2544
+12567724Avda. San Martín 499                              6414
+12567725Avda. General Paz 5445                            3351
+12567726Uruguay 143                                       2246
+12567727Humberto Primo 481                                2578
+12567728Rivadavia 299                                     8477
+12567729Avda. Chacón 497                                  2506
+12567730Rivadavia 13748                                   5615
+12567731Avda. San Martín 501                              3977
+12567732Cnel. Beltrán 133                                 2881
+12567733Baron Hirsch 2                                    5592
+12567734Avda. S. Martín 301 esq. A.L.Duggan               4212
+12567735Avda. 25 de Mayo 400                              4505
+12567736Hipólito Yrigoyen 501                             1326
+12567737Avda. San Martín 3099                             8064
+12567738Pueyrredón 101                                    3724
+12567739San Pablo 401                                     7991
+12567740Moreno 298                                        8383
+12567741Alsina 250                                        8775
+12567742Avda. San Martín 398                              6745
+125677433 de Febrero 999                                  2058
+12567744Belgrano 385                                      5469
+12567745Arieta 3015                                       6955
+12567746Mitre 3920 (Calle 54)                             1350
+12567747Avda Pte. Tte. Gral. Perón 1402                   2020
+12567748Belgrano 101 esq.Sarmiento                        6260
+12567749Carlos Pellegrini 402                             8795
+12567750Avda. Bolívar 104                                 3426
+12567751Los Angeles 197                                   8771
+12567752Avda. 37 n° 319                                   7913
+12567753Avda. Mitre 2727                                  2984
+12567754Calle 48 N° 575, 1° Subsuelo                      2607
+12567755Santa Fe 450                                      4281
+12567756Av. Pte. J. D. Perón 1026                         6374
+12567757Calle 47 Nro. 734                                 2764
+12567758Avda. Juan B. Justo 1620                          6576
+12567759Almirante Brown 612                               3112
+12567760Acassuso 253                                      4875
+12567761Gral. Pinto 600                                   4785
+12567762Avda. 9 de Julio 545                              1475
+12567763Avda. Cazón 1600                                  4406
+12567764Avenida 7 Nº 900 esq. 523                         4688
+12567765Avda. 9 de Julio 402                              8175
+12567766Bvd. Villegas 501                                 3717
+12567767Avda. Moreno 299                                  7351
+125677689 de Julio 502                                    3327
+1256776925 de Mayo 54                                     1054
+12567770Rivadavia 204                                     8250
+12567771Pte. Tte. Gral. Juan D. Perón 2757                5419
+12567772Avda. L.N.Alem 1                                  7309
+12567773Calle 9 n° 900                                    2838
+12567774Calle 30 n° 1400                                  2527
+12567775Avda. Maipú 742                                   7327
+12567776Calle Alvear 2615 (ex 278)                        3255
+12567777Martín Fierro 6550                                7147
+12567778Calle 83 n° 302 (Necochea)                        8020
+12567779Avda. 3 esq. Paseo 109                            1952
+12567780M. Belgrano 198                                   8084
+12567781Avda. Crovara 954                                 5230
+12567782Avda. San Martín 101                              5885
+12567783Falucho 185                                       6231
+12567784Avda. del Libertador Gral.S.Martín 199            4601
+12567785Avellaneda 3315                                   7076
+12567786Avda. Pte. Bmé. Mitre 6440                        4823
+12567787Avda. Rivadavia 699                               4831
+12567788Diagonal Norte 910                                2702
+12567789Av. Corrientes 1236                               5737
+12567790Sarmiento 1490                                    6988
+12567791Florida 474                                       6737
+12567792Av. Cordoba 685                                   7743
+12567793Florida 118                                       2299
+12567794Av. Cordoba 1467                                  7781
+12567795Florida 52                                        5756
+12567796Av. Corrientes 484                                8666
+12567797Sarmiento 481                                     2077
+12567798Av. de Mayo 602                                   6515
+12567799Av. Santa Fe 1310                                 6947
+12567800Av. Santa Fe 802                                  5931
+12567801Av. Santa Fe 824                                  5437
+12567802Av. Belgrano 1194                                 7635
+12567803Libertad 1279                                     3631
+12567804Av. Rivadavia 364                                 7624
+12567805Av. Corrientes 1820                               6219
+12567806Av, Leandro N. Alem 702                           7734
+12567807Av. Callao 23                                     1721
+12567808Av. Cordoba 1861                                  4439
+12567809Av. Entre Rios 196                                2826
+12567810Av. Santa Fe 1740                                 2483
+12567811Rodriguez Peña 1572                               2106
+12567812Alicia M. de Justo 350                            7169
+12567813Av. Callao 1600                                   1564
+12567814Av. Rivadavia 2215                                8987
+12567815Av. Santa Fe 2139                                 7465
+12567816Roberto M. Ortiz 1861                             8947
+12567817Av. Las Heras 2055                                2918
+12567818Juana Manso 1189                                  2251
+12567819Av. San Juan 387                                  7298
+12567820Peña 2383                                         8843
+12567821Av. Santa Fe 2453                                 7087
+12567822Av. Pueyrredon 991                                1344
+12567823Av. Las Heras 2324                                2999
+12567824Av. Pueyrredon 539                                1044
+12567825Av. Independencia 2676                            2358
+12567826Av. Santa Fe 2822                                 3606
+12567828Av. Las Heras 2845                                1277
+12567829Av. Corrientes 3202                               5241
+12567830Av. San Juan 2701                                 1546
+12567831Av. Rivadavia 310                                 1110
+12567832Av. Cordoba 3381                                  8742
+12567833Republica Dominicana 3358                         7520
+12567834Av. Santa Fe 3380                                 2385
+12567835Montes de Oca 894                                 2693
+12567836Scalabrini Ortiz 3149                             2116
+12567837Esteban Adrogué 1052 / 58                         3584
+12567838Silverio Almiró 21 / 29                           2624
+12567839Rivadavia 301                                     6357
+12567840Au. Tte. Gral. Pablo Riccheri Km 33,5             5286
+12567841Au. Tte. Gral. Pablo Riccheri Km 33,5             3082
+12567842Avda. Independencia 3621                          7826
+12567843Avda. Eugenia Tapia de Cruz 28                    3837
+12567844Calle 138 número 1498                             2579
+12567845Hipólito Irigoyen 14820                           4605
+12567846 Juan Bautista Alberdi 2923                       5980
+12567847Roma 3261                                         8244
+12567848Córdoba 2071                                      7652
+12567849Avda.Victorica 875                                5937
+12567850Mendoza 385/389                                   7225
+12567851Intendente Campos 1626/34                         2806
+12567852Muñoz 1576                                        8661
+12567853Avda. Coronel Ramón L. Falcón 331                 3271
+12567854Avda. Daniel M. Cazón 185                         3851
+12567855Ricardo Gutiérrez 498                             2371
+12567856Avda. Mitre 399                                   5267
+12567857Avda. 13 n° 115                                   3334
+12567858Avda. 60 nro 352                                  1700
+12567859Av. Pte. Dr. Arturo U. Illia 2570                 7005
+1256786025 de Mayo 1199                                   1869
+12567861San Martín 455/57                                 6304
+12567862Coronel Brandsen 36                               1444
+12567863Calle 15 N° 551                                   1449
+12567864Alsina 638                                        5957
+12567865Ldor. Gral. San Martín 1218                       2835
+12567866Calle 4 n° 7                                      6970
+12567867Sarmiento 675 - Pergamino                         8232
+12567868Roque Sáenz Peña 938                              5495
+12567869Avda. Independencia 3617-M.del Plata              8206
+12567870Avda. Libertad 3802 - M.del Plata                 5138
+12567871Luro 5832 - M. del Plata                          1997
+12567872Avda. Edison 302                                  1917
+12567873Emilio Martín Larraya 1100                        1321
+12567874Mitre 638                                         2205
+12567875Senador Morón 1390                                8180
+12567876Avda. Santana E. Zabalza 1                        6644
+12567877Calle 14 n° 4465                                  3621
+12567878Avda. San Martín 464                              4490
+12567879Avda. Gral. San Martín 501                        7861
+12567880Avda. A.Sáenz 2099                                1658
+12567881Avda. Pellegrini 1474                             6578
+12567882Avda. Mitre 198                                   7483
+12567883Gral. Roca 869                                    8948
+12567884Calle 57 n° 831 entre 11 y 12                     1787
+12567885Calle 4 n° 168                                    4103
+12567886Avda. Ing. A. Roca  152                           3597
+12567887Avda. Libertad 698                                4476
+12567888Urcelay 529                                       6444
+12567889Avda. Pte. J. D. Perón 402                        7818
+12567890Avda. Colón 898                                   6662
+12567891Avda. San Martín 150                              8868
+12567892Alberto H. Almirón 46                             6521
+12567893Avda. Mitre y Azcuénaga                           4755
+12567894H. Yrigoyen 400                                   3655
+12567895Juan B. Alberdi 4775                              1643
+1256789625 de Mayo 325                                    8818
+12567897Las Heras 398, Planta Baja                        4275
+12567898Lavalle 698                                       8229
+12567899General M. de Güemes 2551                         4567
+12567900Avda. del Libertador 13988                        7664
+12567901Avda. de los Trabajadores 2977                    3569
+12567902Alvear 625                                        2235
+12567903Avda. Dr. Ricardo Balbin 879                      1354
+12567904Sarmiento 944                                     3240
+12567905Colón 619                                         8473
+12567906Belgrano 49                                       4300
+12567907Avda. Mitre 113                                   3745
+12567908Soarez n° 1                                       2744
+12567909Padre Elizalde 445                                2023
+12567910Avda. San Martín 194                              5430
+12567911Calle 47 n° 901                                   4594
+12567912Avda. Julio A.Roca 622                            5315
+12567913Mitre esq. Guemes                                 1749
+12567914San Martín 602/26/34                              8400
+12567915Sarmiento 101                                     6450
+12567916Avda. Julio A. Roca 199                           5743
+12567917Calle 42 esq. 21 - La Plata                       1450
+12567918Boulevard H. Yrigoyen 99                          8686
+12567919Belgrano 199, esquina Gral. Rico                  8711
+12567920Don Bosco 1285 - Bahia Blanca                     2182
+12567921Itacumbú 634                                      4934
+12567922La Merced 266                                     5369
+12567923Monteagudo 3237                                   2009
+12567924Avda San Martín (15) n° 805                       2688
+12567925Avellaneda 281                                    4539
+12567926Avda. de los Constituyentes 553                   2333
+12567927San Martín 390                                    5737
